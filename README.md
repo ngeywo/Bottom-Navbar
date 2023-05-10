@@ -1,1 +1,13 @@
-![My Image](images/btmnav.png)
+# This is a bottom Navbar
+
+## It's built using:
+---
+- AnimeJs
+- boxicon icons
+---
+
+
+
+
+
+![My Image](images/bottomnav.png)
